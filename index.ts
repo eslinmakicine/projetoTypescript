@@ -8,3 +8,4 @@ const meuNumero2 = 5;
 const resultado = somar(meuNumero1, meuNumero2);
 
 console.log(resultado);
+console.log(resultado);

@@ -6,3 +6,4 @@ var meuNumero1 = 10;
 var meuNumero2 = 5;
 var resultado = somar(meuNumero1, meuNumero2);
 console.log(resultado);
+console.log(resultado);
