@@ -15,3 +15,6 @@
 - 11 - Configurando o target do TypeScript
 - 12 - Utilizando Modificadores de Acesso
 - 13 - Herança
+
+
+Digitar `<tsc>` no terminal para gerar o arquivo js.
