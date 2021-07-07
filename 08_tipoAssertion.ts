@@ -1,4 +1,4 @@
-//Tipo Assertion
+//08 - Type Assertion
 //com isso, ele mostre que tal variável é de tal tipo
 
 const minhaIdade: any = 23; //aqui ele declara que pode ser qualquer coisa por conta de Any

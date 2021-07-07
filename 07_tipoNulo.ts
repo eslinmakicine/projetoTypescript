@@ -1,4 +1,5 @@
-//Tipo NULL
+//07 - Valores nulos ou opcionais
+
 //para valores nulos ou opcionais
 //é usado em casos em que o campo pode ser nulo ou não, é opcional ou não
 

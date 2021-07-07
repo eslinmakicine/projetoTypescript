@@ -1,3 +1,4 @@
+//04 - Tipo Never
 //tipo Never, complemento do arquivo tipos.ts
 //é um tipo de coisas que nunca ocorrem
 

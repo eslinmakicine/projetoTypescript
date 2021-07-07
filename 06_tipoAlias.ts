@@ -1,4 +1,4 @@
-//tipo Alias
+//06 - Type Alias
 //serve para criar um tipo personalizado. Dessa forma é criado esse type, e dps esse type pode ser utilizado em funções, variaveis e etc
 
 type alunos = Array<string>; //aqui ele diz que o tipo de aluno é um tipo com array
